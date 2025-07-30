@@ -1,0 +1,6 @@
+librosa
+numpy
+PyWavelets
+pydub
+soundfile
+requests
